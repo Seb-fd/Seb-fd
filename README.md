@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **Sebastian Flórez**
+# Hi there! 👋 I'm **Sebastian Florez**
 
 ---
 
