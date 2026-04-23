@@ -2,16 +2,17 @@
 
 ---
 
-### 🎯 Front-End Developer
+### 🎯 Full-Stack Developer
 
-Front-end developer with a solid self-taught background and practical experience developing modern web applications. I built a full-stack social network using Next.js, Tailwind CSS, Clerk, Prisma, and Neon, as well as a responsive calculator using React and Vite. I'm fluent in HTML, CSS, JavaScript, and frameworks such as React and Next.js. I specialize in clean and usable interfaces, with a mobile-first approach and support for dark mode.
+Full-Stack developer with a solid self-taught background and practical experience developing modern web applications. I built a complete e-commerce platform with integrated POS system for a Colombian lingerie business, featuring product catalog, sales terminal, inventory management, and multiple payment methods. I also developed a full-stack social network using Next.js, Tailwind CSS, Clerk, Prisma, and Neon, as well as a real-time multiplayer mini game using React and Socket.io.
 
-Currently, I combine my technical skills with experience as a bilingual medical interpreter, which has allowed me to perfect professional communication and remote work. I'm looking to contribute to challenging projects where I can apply my knowledge in front-end development and continue growing as a technology professional.
+I'm fluent in JavaScript and TypeScript, with expertise in React ecosystem technologies including React Router, React Query, Zustand, and Framer Motion. I specialize in building production-ready applications with clean architecture, responsive interfaces with mobile-first approach, and support for dark mode.
 
-- 🌍 I'm based in **Colombia**  
-- ✉️ Reach me at [sebastianfd005@gmail.com](mailto:sebastianfd005@gmail.com)  
-- 🧠 Currently learning **React** and **Angular**  
-- 🤝 Open to collaborate on **interesting front-end projects**
+Currently, I'm working as a freelance developer contributing to real business projects where I can apply my full-stack skills and continue growing as a technology professional.
+
+- 🌍 I'm based in **Colombia**
+- ✉️ Reach me at [sebastianfd005@gmail.com](mailto:sebastianfd005@gmail.com)
+- 💼 Open to **freelance projects** and collaboration
 
 ---
 
@@ -26,6 +27,10 @@ Currently, I combine my technical skills with experience as a bilingual medical 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
+<a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/zustand-colored.svg" width="36" height="36" alt="Zustand" /></a>
+<a href="https://www.framer.com/motion/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-motion-colored.svg" width="36" height="36" alt="Framer Motion" /></a>
 </p>
 
 ---
@@ -53,6 +58,20 @@ Currently, I combine my technical skills with experience as a bilingual medical 
 
 ### 🚀 Projects
 
+#### 🔗 [**Gitanas E-commerce & POS**](https://www.gitanaslenceria.com)
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-3E2F8F?style=for-the-badge&logo=zustand&logoColor=white" />
+</p>
+
+> 🛒 Complete e-commerce platform with integrated POS system featuring product catalog, sales terminal with multiple payment methods (cash, card, Nequi), inventory management, hold orders, discounts, and employee timeclock. Built for a real Colombian lingerie business.
+
+---
+
 #### 🔗 [**Social Media App**](https://social-media-app-henna-psi.vercel.app)
 
 <p>
@@ -67,12 +86,14 @@ Currently, I combine my technical skills with experience as a bilingual medical 
 
 ---
 
-#### 🧮 [**Vite Calculator**](https://vite-calculator-five.vercel.app)
+#### 🎮 [**Multiplayer Mini Game**](https://multiplayer-mini-game.vercel.app)
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-> 🧩 A minimalist and responsive calculator that performs basic arithmetic operations. Built with a mobile-first approach and clean UI.
+> 🎲 Real-time multiplayer browser game where players collect coins in shared rooms. Features smooth collisions, dynamic scaling, and immersive audio feedback.
