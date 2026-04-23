@@ -16,6 +16,15 @@ Currently, I'm working as a freelance developer contributing to real business pr
 
 ---
 
+### 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://seb-fd-portfolio.vercel.app)
+
+> 🔗 [seb-fd-portfolio.vercel.app](https://seb-fd-portfolio.vercel.app)  
+> A curated collection of my best work showcasing full-stack development skills, featuring e-commerce platforms, POS systems, and interactive web applications.
+
+---
+
 ### 🧰 Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,6 +48,12 @@ Currently, I'm working as a freelance developer contributing to real business pr
 ---
 
 ### 🚀 Projects
+
+#### 🌐 [**Portfolio**](https://seb-fd-portfolio.vercel.app)
+
+> 🔗 A curated collection of my best work showcasing full-stack development skills, featuring e-commerce platforms, POS systems, and interactive web applications.
+
+---
 
 #### 🛒 [**Gitanas E-commerce & POS**](https://www.gitanaslenceria.com)
 
