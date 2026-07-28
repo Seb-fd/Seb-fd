@@ -50,7 +50,7 @@ Complete e-commerce platform with integrated POS system — product catalog, sal
 
 Zero-knowledge architecture — master password never leaves the device. SRP-6a for authentication, Argon2id (64MB memory) for key derivation, AES-256-GCM per-field with AAD. Password generator, favorites, search, export, auto-lock, CSRF protection, 6 rate limiters.
 
-[Live](https://password-manager-three-iota.vercel.app) | [GitHub](https://github.com/Seb-fd/password-manager) | 309 tests | 36 migrations
+[Live](https://password-manager-three-iota.vercel.app) | 309 tests | 36 migrations
 
 ### The Hermit Cocktail Bar
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
