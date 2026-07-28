@@ -86,7 +86,7 @@ Real-time multiplayer browser game. Players join shared rooms and compete to col
 [Live](https://multiplayer-mini-game.vercel.app) | [GitHub](https://github.com/Seb-fd/Multiplayer-Mini-Game)
 
 ## GitHub Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Seb-fd&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=Seb-fd&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Seb-fd&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Seb-fd&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
 
 ## Contact
 
