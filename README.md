@@ -1,78 +1,94 @@
-# Hi there! 👋 I'm **Sebastian Florez**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Next.js;Building+production+software" alt="Typing SVG" />
+</p>
+
+Building production software for real businesses. E-commerce, POS, zero-knowledge encryption, real-time applications.
+
+565 tests across production projects | 309 tests on zero-knowledge crypto | Bilingual EN/ES
 
 ---
 
-### 🎯 Full-Stack Developer
+## Stack
 
-Full-Stack developer with a solid self-taught background and practical experience developing modern web applications. I built a complete e-commerce platform with integrated POS system for a Colombian lingerie business, featuring product catalog, sales terminal, inventory management, and multiple payment methods. I also developed a full-stack social network using Next.js, Tailwind CSS, Clerk, Prisma, and Neon, as well as a real-time multiplayer mini game using React and Socket.io.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-I'm fluent in JavaScript and TypeScript, with expertise in React ecosystem technologies. I specialize in building production-ready applications with clean architecture, responsive interfaces with mobile-first approach, and support for dark mode.
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-Currently, I'm working as a freelance developer contributing to real business projects where I can apply my full-stack skills and continue growing as a technology professional.
+## Now
 
-- 🌍 I'm based in **Colombia**
-- ✉️ Reach me at [sebastianfd005@gmail.com](mailto:sebastianfd005@gmail.com)
-- 💼 Open to **freelance projects** and collaboration
+**Gitanas E-commerce & POS** — Daily sales, inventory, POS system serving a real Colombian lingerie business. Replaced manual operations with digital sales tracking and multi-method payments. 565 tests, ~8,000 LOC.
 
----
+**Password Manager** — Zero-knowledge, end-to-end encrypted password manager. SRP-6a authentication, Argon2id key derivation, per-field AES-256-GCM encryption. 309 tests, 36 DB migrations, full CI/CD.
 
-### 🌐 Portfolio
+## Featured Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://seb-fd-portfolio.vercel.app)
+### Gitanas E-commerce & POS
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
 
-> 🔗 [seb-fd-portfolio.vercel.app](https://seb-fd-portfolio.vercel.app)  
-> A curated collection of my best work showcasing full-stack development skills, featuring e-commerce platforms, POS systems, and interactive web applications.
+Complete e-commerce platform with integrated POS system — product catalog, sales terminal, inventory management, multiple payment methods, and employee timeclock. Used daily by a real business.
 
----
+[Live](https://www.gitanaslenceria.com) | 565 tests | ~8,000 LOC
 
-### 🧰 Skills
+### Password Manager
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Zero-knowledge architecture — master password never leaves the device. SRP-6a for authentication, Argon2id (64MB memory) for key derivation, AES-256-GCM per-field with AAD. Password generator, favorites, search, export, auto-lock, CSRF protection, 6 rate limiters.
 
-**Technologies & Tools:** HTML5, CSS3, Zustand, React Query, React Router, Framer Motion, Prisma, Clerk, Socket.io, Node.js, VS Code
+[Live](https://password-manager-three-iota.vercel.app) | [GitHub](https://github.com/Seb-fd/password-manager) | 309 tests | 36 migrations
 
----
+### The Hermit Cocktail Bar
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)
 
-### 🌐 Socials
+Bilingual landing page for a craft cocktail bar in Pasto, Colombia. 9 sections, 22-cocktail interactive menu, lightbox gallery, Google reviews, WhatsApp reservation CTA. Full SEO with JSON-LD, Open Graph, Twitter Cards.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seb-fd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebastián-flórez-delgado-15263b311)
+[Live](https://thehermitbar.com) | 65 tests | CI/CD
 
----
+### Social Media App
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-000000?style=flat-square)
 
-### 🚀 Projects
+Full-stack social network with SSR for sub-2s page loads. User authentication, posts, likes, comments, follow system, custom avatars, responsive dark-mode UI. ~2,800 lines of TypeScript.
 
-#### 🌐 [**Portfolio**](https://seb-fd-portfolio.vercel.app)
+[Live](https://social-media-app-henna-psi.vercel.app) | [GitHub](https://github.com/Seb-fd/social-media-app)
 
-> 🔗 A curated collection of my best work showcasing full-stack development skills, featuring e-commerce platforms, POS systems, and interactive web applications.
+### Multiplayer Mini Game
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
+Real-time multiplayer browser game. Players join shared rooms and compete to collect coins on a dynamic canvas. Smooth collision detection, dynamic scaling, audio feedback, real-time score tracking.
 
-#### 🛒 [**Gitanas E-commerce & POS**](https://www.gitanaslenceria.com)
+[Live](https://multiplayer-mini-game.vercel.app) | [GitHub](https://github.com/Seb-fd/Multiplayer-Mini-Game)
 
-> Complete e-commerce platform with integrated POS system featuring product catalog, sales terminal with multiple payment methods (cash, card, Nequi digital wallet), inventory management, hold orders, discounts, and employee timeclock. Built for a real Colombian lingerie business.
+## GitHub Stats
 
-**Stack:** React, TypeScript, Tailwind CSS, Supabase, Zustand, React Query, React Router, Framer Motion
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seb-fd&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
----
+## Contact
 
-#### 🌐 [**Social Media App**](https://social-media-app-henna-psi.vercel.app)
-
-> Full-stack social media app with user authentication, post creation and deletion, comments, likes, follow system, dark mode, and responsive design.
-
-**Stack:** Next.js, Tailwind CSS, Clerk, Prisma, Neon
-
----
-
-#### 🎮 [**Multiplayer Mini Game**](https://multiplayer-mini-game.vercel.app)
-
-> Real-time multiplayer browser game where players collect coins in shared rooms. Features smooth collisions, dynamic scaling, and immersive audio feedback.
-
-**Stack:** React, Vite, Tailwind CSS, Socket.io, Node.js
+sebastianfd005@gmail.com | [LinkedIn](https://www.linkedin.com/in/juan-sebastian-florez-delgado-15263b311) | [Portfolio](https://seb-fd-portfolio.vercel.app) | [GitHub](https://github.com/Seb-fd)
