@@ -87,7 +87,7 @@ Real-time multiplayer browser game. Players join shared rooms and compete to col
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seb-fd&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Seb-fd&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/stats-organization/github-stats-extended)
 
 ## Contact
 
