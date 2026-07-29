@@ -52,6 +52,16 @@ Zero-knowledge architecture — master password never leaves the device. SRP-6a 
 
 [Live](https://password-manager-three-iota.vercel.app) | 309 tests | 36 migrations
 
+### The Hermit POS & Inventory
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+Internal POS and inventory system for The Hermit Cocktail Bar in Pasto, Colombia. Sales dashboard with 7 chart types, cocktail recipes with pour cost tracking, table management with interactive floor plan, open tabs, purchases, expenses, daily cash close, and offline-first sync. Tech stack (Google Apps Script + Google Sheets) specified by the business owner.
+
+~9,800 LOC | 69 tests
+
 ### The Hermit Cocktail Bar
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
