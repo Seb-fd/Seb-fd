@@ -4,7 +4,7 @@
 
 Building production software for real businesses. E-commerce, POS, zero-knowledge encryption, real-time applications.
 
-565 tests across production projects | 309 tests on zero-knowledge crypto | Bilingual EN/ES
+634 tests across production projects | 309 tests on zero-knowledge crypto | Bilingual EN/ES
 
 ---
 
@@ -27,6 +27,8 @@ Building production software for real businesses. E-commerce, POS, zero-knowledg
 **Gitanas E-commerce & POS** — Daily sales, inventory, POS system serving a real Colombian lingerie business. Replaced manual operations with digital sales tracking and multi-method payments. 565 tests, ~8,000 LOC.
 
 **Password Manager** — Zero-knowledge, end-to-end encrypted password manager. SRP-6a authentication, Argon2id key derivation, per-field AES-256-GCM encryption. 309 tests, 36 DB migrations, full CI/CD.
+
+**The Hermit POS & Inventory** — POS and inventory system for a craft cocktail bar in Pasto, Colombia. Sales dashboard with pour cost tracking, cocktail recipes, table management, daily cash close, and offline-first sync. Tech stack specified by the business owner. ~9,800 LOC, 69 tests.
 
 ## Featured Projects
 
