@@ -102,4 +102,4 @@ Real-time multiplayer browser game. Players join shared rooms and compete to col
 
 ## Contact
 
-sebastianfd005@gmail.com | [Portfolio](https://seb-fd-portfolio.vercel.app) | [GitHub](https://github.com/Seb-fd) | [LinkedIn](https://www.linkedin.com/in/sebastianflorezdev/)
+sebastianfd005@gmail.com | [Portfolio](https://sebastian-fd.is-a.dev) | [GitHub](https://github.com/Seb-fd) | [LinkedIn](https://www.linkedin.com/in/sebastianflorezdev/)
