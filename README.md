@@ -4,7 +4,7 @@
 
 Building production software for real businesses. E-commerce, POS, zero-knowledge encryption, real-time applications.
 
-634 tests across production projects | 309 tests on zero-knowledge crypto | Bilingual EN/ES
+1,361 tests across production projects | 329 tests on zero-knowledge crypto | Bilingual EN/ES
 
 ---
 
@@ -23,9 +23,9 @@ Building production software for real businesses. E-commerce, POS, zero-knowledg
 
 ## Now
 
-**Gitanas E-commerce & POS** — Daily sales, inventory, POS system serving a real Colombian lingerie business. Replaced manual operations with digital sales tracking and multi-method payments. 565 tests, ~8,000 LOC.
+**Gitanas E-commerce & POS** — Daily sales, inventory, POS and promos engine serving a real Colombian lingerie business. Discounts with expiry + countdown, promo popups with scheduling and drag-and-drop priority. 1,189 tests, ~25,000 LOC prod, 8 migrations, 82% coverage.
 
-**Password Manager** — Zero-knowledge, end-to-end encrypted password manager. SRP-6a authentication, Argon2id key derivation, per-field AES-256-GCM encryption. 309 tests, 36 DB migrations, full CI/CD.
+**Password Manager** — Zero-knowledge, end-to-end encrypted password manager. SRP-6a authentication, Argon2id key derivation, per-field AES-256-GCM encryption. 329 tests, 36 DB migrations, full CI/CD.
 
 **The Hermit POS & Inventory** — POS and inventory system for a craft cocktail bar in Pasto, Colombia. Sales dashboard with pour cost tracking, cocktail recipes, table management, daily cash close, and offline-first sync. Tech stack specified by the business owner. ~9,800 LOC, 69 tests.
 
@@ -37,10 +37,11 @@ Building production software for real businesses. E-commerce, POS, zero-knowledg
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
+![DOMPurify](https://img.shields.io/badge/DOMPurify-3E67B1?style=flat-square)
 
-Complete e-commerce platform with integrated POS system — product catalog, sales terminal, inventory management, multiple payment methods, and employee timeclock. Used daily by a real business.
+Complete e-commerce platform with integrated POS and promos engine — product catalog (discounts with expiry + countdown, promo popups with scheduling), sales terminal, inventory, multiple payment methods (cash, card, Nequi, Sistecredito/Addi, gift cards, split payments), and employee timeclock. 8 Supabase migrations, DOMPurify + CSP hardened. Used daily by a real business.
 
-[Live](https://www.gitanaslenceria.com) | 565 tests | ~8,000 LOC
+[Live](https://www.gitanaslenceria.com) | 1,189 tests | ~25,000 LOC | 82% coverage
 
 ### Password Manager
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -51,7 +52,7 @@ Complete e-commerce platform with integrated POS system — product catalog, sal
 
 Zero-knowledge architecture — master password never leaves the device. SRP-6a for authentication, Argon2id (64MB memory) for key derivation, AES-256-GCM per-field with AAD. Password generator, favorites, search, export, auto-lock, CSRF protection, 6 rate limiters.
 
-[Live](https://password-manager-three-iota.vercel.app) | 309 tests | 36 migrations
+[Live](https://password-manager-three-iota.vercel.app) | 329 tests | 36 migrations
 
 ### The Hermit POS & Inventory
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -73,7 +74,7 @@ Internal POS and inventory system for The Hermit Cocktail Bar in Pasto, Colombia
 
 Bilingual landing page for a craft cocktail bar in Pasto, Colombia. 9 sections, 22-cocktail interactive menu, lightbox gallery, Google reviews, WhatsApp reservation CTA. Full SEO with JSON-LD, Open Graph, Twitter Cards.
 
-[Live](https://thehermitbar.com) | 65 tests | CI/CD
+[Live](https://thehermitbar.com) | 103 tests | CI/CD
 
 ### Social Media App
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
